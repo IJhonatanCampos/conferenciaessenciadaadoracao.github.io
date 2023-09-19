@@ -1,0 +1,61 @@
+body{background-color: rgba(0, 0, 0, 0.625);}
+
+.header{
+    padding: 20px;
+}
+
+.links{
+    display: inline;
+    margin-left: 450px;
+}
+.links a{
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color:rgb(9, 9, 9);
+   
+    
+}
+
+.links a:hover{
+    color:rgb(68, 0, 25);
+    border-top: 2px solid  rgb(68, 0, 255);
+    border-bottom: 2px solid rgb(68, 0, 255);
+    
+
+
+}
+
+
+.span-1, .span-2{
+    font-weight: bold;
+    font-size: x-large;
+}
+.span-1{
+    color:rgb(7, 3, 251)
+}
+.span-2{
+    color:rgb(132, 203, 238)
+}
+
+.secao-1{
+    width: 500px;
+color: aqua;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.secao-2{
+ 
+}
+
+.img{
+    
+}
+
+.img img{
+    width: 70%;
+    margin:0 auto;
+ 
+}
+
+  
